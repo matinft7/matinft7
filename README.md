@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Light
-- 👀 I’m interested in exploring the world of A.I and Web Design.
+- 👀 I’m interested in exploring the world of Web Design and A.I.
 - 📫 How to reach me :
    - Instagram : @mawtinft
    - Email : matinft20@gmail.com
