@@ -1,4 +1,5 @@
-### 👋 Hi, I’m Light
+### 👋 Hi, It's Snow
+#### i just like this name :)
 - 👀 I’m interested in exploring the world of Web Design and A.I.
 - 📫 How to reach me :
    - Instagram : @mawtinft
