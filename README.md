@@ -18,9 +18,9 @@
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
    </a>
-   <br>
+   <br>Others:<br>
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=vscode,ubuntu,vim,postman,git" />
+   <img src="https://skillicons.dev/icons?i=vscode,ubuntu,vim,postman,git,cpp" />
    </a>
 </div>
 
