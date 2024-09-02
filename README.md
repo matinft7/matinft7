@@ -6,11 +6,11 @@
    - Email : matinft20@gmail.com
 ### Language and tools
 <div>
-   Front : <br>
+   Front-end: <br>
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=css,html,js,nextjs,sass,tailwind,jquery" />
    </a>
-   <br>Back:<br>
+   <br>Back-end:<br>
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=php,flask,fastapi" />
    </a>
