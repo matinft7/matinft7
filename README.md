@@ -16,7 +16,7 @@
    </a>
    <br>AI:<br>
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
    </a>
    <br>Others:<br>
    <a href="https://skillicons.dev">
