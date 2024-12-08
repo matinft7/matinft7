@@ -1,5 +1,5 @@
 ### 👋 Hi
-#### i just like this name :)
+#### It's Light, i just like this name :)
 - 👀 I’m interested in exploring the world of Web Design and A.I.
 - 📫 How to reach me :
    - Instagram : @mawtinft
