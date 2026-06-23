@@ -27,14 +27,14 @@
 
 #### 🌐 Web Development (Front-End & CMS)
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,sass,tailwind,jquery,php" alt="Web Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,jquery,php" alt="Web Stack" />
 </a>
 <br>
 <sub>*Experienced in modern UI frameworks as well as PHP and Joomla enterprise CMS ecosystems.*</sub>
 
 #### ⚡ Backend & Systems (Including Active Learning)
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,flask,fastapi,cpp" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=go,flask,cpp" alt="Backend Stack" />
 </a>
 
 #### 🧰 DevOps & Environment
