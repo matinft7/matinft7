@@ -11,7 +11,7 @@
 - 👀 **Current Focus:** Deep Learning, Generative AI, and high-performance backend systems.
 - 🛠️ **Latest Venture:** Diving deep into **Go (Golang)** to build faster, scalable microservices.
 - 📫 **Let's Connect:** 
-  <a href="mailto:matinft20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:matinfthi171079@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://instagram.com/mawtinft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ---
